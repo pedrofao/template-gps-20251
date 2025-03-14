@@ -16,7 +16,7 @@
 
 ## Professor responsável
 
-* [Felipe Augusto Lima Reis](https://github.com/falreis)
+* Pedro Felipe Alves de Oliveira
 
 ## Gerenciamento do Projeto
 
